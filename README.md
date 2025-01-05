@@ -1,3 +1,12 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Herkese+Selam!+👋;++Kerim+Ayvaz!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEcB0F4xFtFsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732035403367?e=1741824000&v=beta&t=DWjMI1FD-MhIVssvTBWC2iq0x3jJydyuOg3xNLoBnlU)
 <h1 align="center">Hi 👋, I'm Kerim Ayvaz</h1>
 <h3 align="center">A passionate Full Stack Developer from İstanbul</h3>
@@ -36,4 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimayvaz77&" alt="kerimayvaz77" /></p>
 
-![snake gif](https://github.com/kerimayvaz77/kerimayvaz77/blob/output/github-contribution-grid-snake.svg)
