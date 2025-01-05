@@ -1,4 +1,5 @@
 <h1 align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimayvaz77&label=Profile%20views&color=0e75b6&style=flat" alt="kerimayvaz77" /> </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Herkese+Selam!+👋;++Kerim+Ayvaz!;&center=true&size=30">
   </a>
