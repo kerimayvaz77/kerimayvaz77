@@ -45,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimayvaz77&" alt="kerimayvaz77" /></p>
 
-![snake gif](https://github.com/kerimayvaz77/kerimayvaz77/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg)
